@@ -14,5 +14,4 @@ pages with a simple navigation menu.
 2. Page 2 should be dedicated to a Geographical view of San Martins Store operations; a Json Map of Spain is included in the datasets. You, as a report developer, must highly his 2 best performing Sales Agents and information about what product these Sales Agents sell more and where (Location). San Martins CEO would also like to know his worth performing Sale Agent.
 
 Link to Live Dashboard 
-
-https://app.powerbi.com/viewr=eyJrIjoiYzM1ODAzMzItY2FkMC00N2Q4LWI4ZmQtYzE2MjczZmM3YjgwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+https://app.powerbi.com/view?r=eyJrIjoiYzM1ODAzMzItY2FkMC00N2Q4LWI4ZmQtYzE2MjczZmM3YjgwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
